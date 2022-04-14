@@ -10,7 +10,7 @@
 		"lint": "prettier --write '**/*.{mjs,json,md,yml}'"
 	},
 	"dependencies": {
-		"ethers": "5.6.3"
+		"ethers": "5.6.4"
 	},
 	"devDependencies": {
 		"prettier": "2.6.2"
